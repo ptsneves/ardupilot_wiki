@@ -332,15 +332,12 @@ other tips.
 .. image:: https://www.airborneprojects.com/wp-content/uploads/2016/06/text_image_1-1200x548.jpg
     :target: https://www.airborneprojects.com/product/drotag-onboard-image-tagging-computer/
     :width: 100%
-    :align: left
 .. image:: https://www.airborneprojects.com/wp-content/uploads/2016/06/3.jpg
     :target: https://www.airborneprojects.com/product/drotag-onboard-image-tagging-computer/
     :width: 50%
-    :align: left
 .. image:: https://www.airborneprojects.com/wp-content/uploads/2016/06/2.jpg
     :target: https://www.airborneprojects.com/product/drotag-onboard-image-tagging-computer/
     :width: 49%
-    :align: left
 
 
 Acknowledgements
